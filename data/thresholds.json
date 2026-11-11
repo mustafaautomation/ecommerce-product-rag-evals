@@ -1,0 +1,15 @@
+{
+  "offline": {
+    "hit_rate": 0.9,
+    "mrr": 0.85,
+    "non_llm_context_recall": 0.9,
+    "string_presence": 0.9,
+    "refusal_correctness": 0.9
+  },
+  "live": {
+    "faithfulness": 0.7,
+    "answer_relevancy": 0.7,
+    "context_precision": 0.7,
+    "context_recall": 0.7
+  }
+}
